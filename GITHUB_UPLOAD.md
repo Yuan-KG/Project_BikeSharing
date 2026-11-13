@@ -1,23 +1,21 @@
-# Account-controlled GitHub upload
+# Repository publication and future updates
 
-Destination supplied by the author: https://github.com/Yuan-KG/Project_BikeSharing
+Repository: https://github.com/Yuan-KG/Project_BikeSharing
 
-This research package is ready for the account owner to upload. Raw monthly ZIPs and temporary caches are excluded by `.gitignore`; the small derived hourly table, code, executed notebook, report, slides, sources and manifests are included. Keep these together as a non-commercial study rather than publishing a stand-alone data mirror.
+The initial project was committed and pushed to main with the author's explicit authorization. GitHub authentication was completed by the account owner. The remote commit was checked against the local commit. Code, the derived hourly study table, the executed notebook, report, slides and provenance are included. Original ZIPs and temporary caches remain excluded.
 
-If the target repository is empty, open a terminal in `E:\MachineLearning\Project_BikeSharing` and run the commands below with your installed Git. Complete any GitHub browser sign-in yourself. First check `git status` and the staged file list before pushing. If the remote already has commits, fetch and review them rather than force pushing or overwriting existing work.
+The local repository is `E:\MachineLearning\Project_BikeSharing`, with origin pointing to the URL above. Git author information was configured only in this repository using the author's supplied name and email. Global Git settings were not changed. The research package is about 11 MB in Git, while the original monthly files remain available locally.
 
-The delivered local directory has already been initialized on `main`, the remote has been configured, and 117 files (about 11 MB) have been staged. All 24 original ZIPs are excluded. When using that prepared directory, skip the first three commands below and start with `git status`. Git author name/email are not configured on this computer; use your own real identity before committing.
+For later edits, use your own Git installation and account:
 
 ```powershell
-git init -b main
-git remote add origin https://github.com/Yuan-KG/Project_BikeSharing.git
+git status
 git add .
-git status --short
 git diff --cached --stat
-git commit -m "Add bikeshare course study and reproducible results"
-git push -u origin main
+git commit -m "Describe the actual project changes"
+git push origin main
 ```
 
-Use your own Git author identity if Git requests one. Do not invent an email address. Do not use `--force`. Verify the notebook, processed table, report PDF and PPTX appear on the destination page, and test that the report's repository link is accessible to the teacher.
+Complete any sign-in yourself. Review the staged list before pushing. Keep original ZIPs and caches excluded, do not use --force, and do not turn the study repository into a stand-alone raw-data mirror. If another person has updated the remote, fetch and review those changes before pushing.
 
-The report already contains the URL supplied by the author. A supplied URL alone is not evidence that the materials have been published. The delivery verification record distinguishes local files from any remote publication.
+The report already contains the verified repository URL. Confirm the teacher can access the page before submitting the course work.

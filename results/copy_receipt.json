@@ -1,7 +1,7 @@
 {
   "target": "E:\\MachineLearning\\Project_BikeSharing",
   "file_count": 141,
-  "total_bytes": 509216519,
+  "total_bytes": 509216295,
   "existing_different_files_overwritten": false,
   "files": [
     {
@@ -31,8 +31,8 @@
     },
     {
       "path": "GITHUB_UPLOAD.md",
-      "bytes": 1973,
-      "sha256": "336aba23506460216aa267ce43d79bbf3dac7e9dc13ad0c433e1ee2a309dc039"
+      "bytes": 1470,
+      "sha256": "8df455658f45e76b7fb92d7b319cad9ccf2973afacdf4f11259e4ae99f4d3508"
     },
     {
       "path": "project_metadata.json",
@@ -41,8 +41,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8503,
-      "sha256": "6ae0478434f18bfbdc3e349c34df4b3578002b704eacb6b789ecba48f6406e80"
+      "bytes": 8564,
+      "sha256": "7acb08df67bc353572db2902fbc6cf03cbb00ac3a96e1373bbb5f7209b559624"
     },
     {
       "path": "REQUIREMENTS_CHECK.md",
@@ -191,8 +191,8 @@
     },
     {
       "path": "results/delivery_verification.json",
-      "bytes": 1175,
-      "sha256": "856cfd6a4737f381a6c0ae9a03e8d88447950a6be8b75cb4d72e79480f9a118b"
+      "bytes": 1393,
+      "sha256": "74de4a262fffd5641ba5ecf6bc0e1f243d61d3f4fc6e5b5609c69f02cf443aff"
     },
     {
       "path": "results/development_hour_profiles.csv",

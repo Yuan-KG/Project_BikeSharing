@@ -27,5 +27,9 @@
   "presentation_native_powerpoint_opened": false,
   "remote_repository": "https://github.com/Yuan-KG/Project_BikeSharing",
   "remote_refs_checked": "empty before upload",
-  "remote_publication_performed": false
+  "remote_publication_performed": true,
+  "initial_verified_publication_commit": "4f25cece947318643432e04152c757ab11eb771d",
+  "remote_branch": "main",
+  "repository_visibility": "public",
+  "publication_verified_utc": "2026-11-13T10:01:04.563832+00:00"
 }

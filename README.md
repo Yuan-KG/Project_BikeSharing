@@ -83,6 +83,6 @@ Weather data by [Open-Meteo.com](https://open-meteo.com/), ERA5 reanalysis from 
 
 ## Repository upload and submission
 
-The local research package is ready to upload. Exclude original ZIPs, `.part` downloads, SQLite caches, temporary authoring files and Jupyter checkpoints using the supplied `.gitignore`. Do not apply a code license to third-party data or the ICML style files. `GITHUB_UPLOAD.md` gives account-controlled upload steps.
+The code, derived study data, report and presentation are published at the repository linked above. Original ZIPs, `.part` downloads, SQLite caches, temporary authoring files and Jupyter checkpoints are excluded using the supplied `.gitignore`. Do not apply a code license to third-party data or the ICML style files. `GITHUB_UPLOAD.md` describes publication and future updates.
 
 The teacher requests electronic submission through 学习通. Confirm the due date in the class schedule and rehearse the talk to stay within 4-5 minutes, followed by 1 minute of questions. The supplied PDF states a 10% per-day late penalty.
