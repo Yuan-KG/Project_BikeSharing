@@ -1,7 +1,7 @@
 {
   "target": "E:\\MachineLearning\\Project_BikeSharing",
   "file_count": 141,
-  "total_bytes": 509215278,
+  "total_bytes": 509216519,
   "existing_different_files_overwritten": false,
   "files": [
     {
@@ -11,18 +11,18 @@
     },
     {
       "path": "BikeSharing_2024_2025.html",
-      "bytes": 1357273,
-      "sha256": "700d48d1a14960563101b5bdb56f3affa5591431dd6727af854dc6b9924316f2"
+      "bytes": 1357534,
+      "sha256": "c31136336319e9848ea833512e1d0c0fb3ba31a654fb83b1c1ccbf49860f8dfa"
     },
     {
       "path": "BikeSharing_2024_2025.ipynb",
-      "bytes": 1128265,
-      "sha256": "dd541b222d729a78c9923b1f0150161dd434b418f0a1b6cc183d13401f79afe3"
+      "bytes": 1128539,
+      "sha256": "10eaaf424ebd9767dcb92644fa149edb4a64f3af49e4cc1fbcd1fcda5f0c7662"
     },
     {
       "path": "DATA_SOURCES.md",
-      "bytes": 4687,
-      "sha256": "d48601ac8e4775c42247b52d0521d552932abace27761f5b81cf1228dedc51dc"
+      "bytes": 5045,
+      "sha256": "dd135166a54706ae2a34a48f81d84d6a1be466ed50bbcc0815f9e68ad2feffd9"
     },
     {
       "path": "EXPERIMENT_PLAN.md",
@@ -51,8 +51,8 @@
     },
     {
       "path": "\u4e2d\u6587\u7406\u89e3\u7b14\u8bb0.md",
-      "bytes": 7940,
-      "sha256": "13be94aa5c90c88de0b70e9797605c45fe21fb512d20799da2d8768ac2f0cc18"
+      "bytes": 8190,
+      "sha256": "b44710b216b8426f2089eba1419e8ac3aded961021439be75765f381ca73bf23"
     },
     {
       "path": "environment/launch_notebook.cmd",
@@ -156,18 +156,18 @@
     },
     {
       "path": "report/report.pdf",
-      "bytes": 348177,
-      "sha256": "afa527d080f9faefc3d7d30d74814e354ecbf746d91b71217e608f722955f43d"
+      "bytes": 348205,
+      "sha256": "42d84e746a2377afc08303d1af2bc9e7593aeda4e4dbadad5842611ea2dc8d83"
     },
     {
       "path": "report/report.tex",
-      "bytes": 35067,
-      "sha256": "3268fba771d8f97cc2ca5b6e353620f66c29efd5116ce5328b3949cff53a172f"
+      "bytes": 35121,
+      "sha256": "ce68637d6cad9374b869d4df638454f0d3e4bc08ec7ffb7497b3d5eb999e5dbc"
     },
     {
       "path": "report/Report_Source.zip",
-      "bytes": 216722,
-      "sha256": "a56444e51fa945f5df769a04ea8c6bdf06fa48c5a8881fd47dc79311eb73395f"
+      "bytes": 216738,
+      "sha256": "eecbf0611c71d1531ca0c41d43632c6802782fee45316c74a2afbe95e1747fa9"
     },
     {
       "path": "report/results_table.tex",
@@ -192,7 +192,7 @@
     {
       "path": "results/delivery_verification.json",
       "bytes": 1175,
-      "sha256": "24f89256d05fe52937f8476476af263d7b89a8761e97646dea9543074d34d9da"
+      "sha256": "856cfd6a4737f381a6c0ae9a03e8d88447950a6be8b75cb4d72e79480f9a118b"
     },
     {
       "path": "results/development_hour_profiles.csv",

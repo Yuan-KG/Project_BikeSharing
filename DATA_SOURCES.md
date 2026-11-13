@@ -16,6 +16,8 @@ Naive timestamps are interpreted as local America/New_York wall times. Because t
 
 The project verifies complete monthly archives and that every expected local date has trips before interpreting empty non-ambiguous hourly bins as observed zeros. Missing target bins due to DST stay missing. These checks cannot prove there was no partial provider outage or unknown upstream filtering.
 
+Some files contain starts from the preceding calendar month. Starts released in archives outside the requested 24-file collection could therefore be absent at the study boundary. Annual counts describe the downloaded collection, not a guaranteed complete transaction census. This is a source-coverage limitation; it is not corrected using test performance.
+
 ## Weather
 
 Provider and documentation: https://open-meteo.com/en/docs/historical-weather-api
