@@ -1,0 +1,23 @@
+{
+  "source": "https://archive-api.open-meteo.com/v1/archive?latitude=38.9072&longitude=-77.0369&start_date=2024-01-01&end_date=2026-01-02&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Ccloud_cover%2Cwind_speed_10m&models=era5&timezone=UTC&timeformat=unixtime&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+  "requested_coordinates": [
+    38.9072,
+    -77.0369
+  ],
+  "model": "ERA5 reanalysis",
+  "retrieved_utc": "2026-11-13T08:57:27.302798+00:00",
+  "sha256": "4e809dd2e0058feb15dd5723e2604cad8eef741e64ad43aad3cac120b42634f0",
+  "params": {
+    "latitude": 38.9072,
+    "longitude": -77.0369,
+    "start_date": "2024-01-01",
+    "end_date": "2026-01-02",
+    "hourly": "temperature_2m,relative_humidity_2m,precipitation,cloud_cover,wind_speed_10m",
+    "models": "era5",
+    "timezone": "UTC",
+    "timeformat": "unixtime",
+    "temperature_unit": "celsius",
+    "wind_speed_unit": "kmh",
+    "precipitation_unit": "mm"
+  }
+}

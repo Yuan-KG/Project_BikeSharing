@@ -1,0 +1,713 @@
+{
+  "target": "E:\\MachineLearning\\Project_BikeSharing",
+  "file_count": 141,
+  "total_bytes": 509215278,
+  "existing_different_files_overwritten": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 353,
+      "sha256": "7a49317183b76557f2333a300e9843729a9ce6f77d79d8d2b9e26f7d5be235cb"
+    },
+    {
+      "path": "BikeSharing_2024_2025.html",
+      "bytes": 1357273,
+      "sha256": "700d48d1a14960563101b5bdb56f3affa5591431dd6727af854dc6b9924316f2"
+    },
+    {
+      "path": "BikeSharing_2024_2025.ipynb",
+      "bytes": 1128265,
+      "sha256": "dd541b222d729a78c9923b1f0150161dd434b418f0a1b6cc183d13401f79afe3"
+    },
+    {
+      "path": "DATA_SOURCES.md",
+      "bytes": 4687,
+      "sha256": "d48601ac8e4775c42247b52d0521d552932abace27761f5b81cf1228dedc51dc"
+    },
+    {
+      "path": "EXPERIMENT_PLAN.md",
+      "bytes": 4183,
+      "sha256": "65aecf89f9f7be405670377ce566b94222b0f50e05ecef8d04c142ab355e9f15"
+    },
+    {
+      "path": "GITHUB_UPLOAD.md",
+      "bytes": 1973,
+      "sha256": "336aba23506460216aa267ce43d79bbf3dac7e9dc13ad0c433e1ee2a309dc039"
+    },
+    {
+      "path": "project_metadata.json",
+      "bytes": 276,
+      "sha256": "16fdd886cce078e42c3786e7a8dfdf5923e9cb4cefc0621f0c288692b608ae43"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8503,
+      "sha256": "6ae0478434f18bfbdc3e349c34df4b3578002b704eacb6b789ecba48f6406e80"
+    },
+    {
+      "path": "REQUIREMENTS_CHECK.md",
+      "bytes": 1905,
+      "sha256": "d4505ec006282474e3a11c70eb0d3e7ede04d90eef8ec4dff2d4f840d69ef933"
+    },
+    {
+      "path": "\u4e2d\u6587\u7406\u89e3\u7b14\u8bb0.md",
+      "bytes": 7940,
+      "sha256": "13be94aa5c90c88de0b70e9797605c45fe21fb512d20799da2d8768ac2f0cc18"
+    },
+    {
+      "path": "environment/launch_notebook.cmd",
+      "bytes": 204,
+      "sha256": "0607ac9b864b924445c0f711357717cc63feecd02b205252a7a4f44f1c78dead"
+    },
+    {
+      "path": "environment/README.md",
+      "bytes": 1669,
+      "sha256": "6efbfdc90161e3eaa4a180848b9a141f9d768cb94ffc450a007556db95ea45e0"
+    },
+    {
+      "path": "environment/register_kernel.py",
+      "bytes": 476,
+      "sha256": "50673b1df138b51fcafd02792621f589ab0d8c0d10f21ed0305aaafe8d6bb1dd"
+    },
+    {
+      "path": "environment/requirements.txt",
+      "bytes": 230,
+      "sha256": "3db86d1282833fee2a960ed58865dea8b6fbae3a3b5e089d392ec2b4a7cc854d"
+    },
+    {
+      "path": "presentation/BikeSharing_Presentation.pptx",
+      "bytes": 57554,
+      "sha256": "6337838d9d0c86ceb3c6d2e933499287eecde69480446eb80949a97be068a6dc"
+    },
+    {
+      "path": "presentation/build_deck.mjs",
+      "bytes": 11021,
+      "sha256": "9e95cb4941b21fbe16dabb1bd47d61e1a542cb9aea6185af5eba29d0b98e8c7f"
+    },
+    {
+      "path": "presentation/English_Script.md",
+      "bytes": 4351,
+      "sha256": "b760688917c19df3ac12c08b6cf8995e3ae91ec309903221049d3e58acbc9297"
+    },
+    {
+      "path": "presentation/Questions_and_Answers.md",
+      "bytes": 4867,
+      "sha256": "f8a0ff84a399382970572657d9dc5bb48faf3d94ee919ef4fc1dea55f7bd6994"
+    },
+    {
+      "path": "presentation/slide_data.json",
+      "bytes": 11899,
+      "sha256": "c7aec74eb3542d67b8f78e38b1a93c899a4f95184cd5b1a2e2f0c41e63e6f208"
+    },
+    {
+      "path": "presentation/speaker_notes.json",
+      "bytes": 3754,
+      "sha256": "fcf00409405370bd11026b246a1e093498a8317e422cb24fcdf7f5ff63f92367"
+    },
+    {
+      "path": "report/algorithm.sty",
+      "bytes": 2302,
+      "sha256": "ab166def454ffae005796a1fbe46f52932a07476d64ea82f3c837a70a3ec71c2"
+    },
+    {
+      "path": "report/algorithmic.sty",
+      "bytes": 7615,
+      "sha256": "cefd7a1195973a8404b12f201ead97af3e6983dac32d5b54efb976f54cda31d5"
+    },
+    {
+      "path": "report/audit_table.tex",
+      "bytes": 268,
+      "sha256": "745e63462a74833f911b8292e589a15e681561eab480170b8c0ee45305c95094"
+    },
+    {
+      "path": "report/build_report.cmd",
+      "bytes": 587,
+      "sha256": "4a0d7103c098e3397561c0738209a7a796a8df01540765eaf4033761275b800d"
+    },
+    {
+      "path": "report/fancyhdr.sty",
+      "bytes": 21006,
+      "sha256": "b2fe599152ac8018b4fb9fd15d23a2a4333edc43b6289200afa3199b13048f54"
+    },
+    {
+      "path": "report/groups_table.tex",
+      "bytes": 698,
+      "sha256": "2ad09679cd80cc42008aaa9add77186da4751be0d8da0224b8e3e7df28c80052"
+    },
+    {
+      "path": "report/icml2019.bst",
+      "bytes": 27146,
+      "sha256": "4687c44600db8327db9040fff3809e562ecfba0417380569c978ff3b71adcad3"
+    },
+    {
+      "path": "report/icml2019.sty",
+      "bytes": 27196,
+      "sha256": "be2ae938567b98fe2d43ee9ce26fddd72b6bd0862f99d4f3c019cd0b816ed0f7"
+    },
+    {
+      "path": "report/numbers.tex",
+      "bytes": 1528,
+      "sha256": "a64c093c0e7fc8d4e713e023c21059e5a47ec4f751d2714a8907f49caad1c87e"
+    },
+    {
+      "path": "report/references.bib",
+      "bytes": 2347,
+      "sha256": "959474e760d5229dd43921a8a6737703c5eaaf1c98b4f10e6e9c37f1dc1a861d"
+    },
+    {
+      "path": "report/report.pdf",
+      "bytes": 348177,
+      "sha256": "afa527d080f9faefc3d7d30d74814e354ecbf746d91b71217e608f722955f43d"
+    },
+    {
+      "path": "report/report.tex",
+      "bytes": 35067,
+      "sha256": "3268fba771d8f97cc2ca5b6e353620f66c29efd5116ce5328b3949cff53a172f"
+    },
+    {
+      "path": "report/Report_Source.zip",
+      "bytes": 216722,
+      "sha256": "a56444e51fa945f5df769a04ea8c6bdf06fa48c5a8881fd47dc79311eb73395f"
+    },
+    {
+      "path": "report/results_table.tex",
+      "bytes": 653,
+      "sha256": "7c139e8abd139db7f08ace0e4c1223f11838761ecde21cfa165153d901991325"
+    },
+    {
+      "path": "report/settings_table.tex",
+      "bytes": 336,
+      "sha256": "6d35b0025e679b66c87c64359ff692c02def133a1c7406632794edea3fb8c343"
+    },
+    {
+      "path": "results/daily_coverage.csv",
+      "bytes": 16749,
+      "sha256": "28bd504c0894e0cf3e38955c03d6a26a449b0f08c9147deeb44840c62402ff0c"
+    },
+    {
+      "path": "results/data_audit.json",
+      "bytes": 30689,
+      "sha256": "a683d06f791f2fa61e45516254b52797539857ecfbe228d228461321b7ff4098"
+    },
+    {
+      "path": "results/delivery_verification.json",
+      "bytes": 1175,
+      "sha256": "24f89256d05fe52937f8476476af263d7b89a8761e97646dea9543074d34d9da"
+    },
+    {
+      "path": "results/development_hour_profiles.csv",
+      "bytes": 968,
+      "sha256": "983eb68ec5bd60a0d0e920741b12de7601a564ea298cdb409ac1d8e7d43a8106"
+    },
+    {
+      "path": "results/development_weather_bins.csv",
+      "bytes": 636,
+      "sha256": "002c97ddf9168b15e710de145ebfce3b3a3e88fa39cd0443212fc9bf4870fe5f"
+    },
+    {
+      "path": "results/development_weekday_heatmap.csv",
+      "bytes": 3023,
+      "sha256": "e584ffe2ca73ac5b64631bbe260b850b1086472ec23f6b808a7951f5a0023cf5"
+    },
+    {
+      "path": "results/hourly_test_metrics.csv",
+      "bytes": 2057,
+      "sha256": "6013b888beba076d22f24eaced3ad8729d049a5b05ebdb6e79bceff1f867d172"
+    },
+    {
+      "path": "results/largest_errors.csv",
+      "bytes": 3803,
+      "sha256": "eafd97c7eca1fe185490d0d193e7813a6d217ec406ef2bb752f56a279e077002"
+    },
+    {
+      "path": "results/monthly_audit.csv",
+      "bytes": 3825,
+      "sha256": "a01ff8c6927ca30e89e555a0dc2a2ec6f05f1551ec519be8714bafb4fd06a8cc"
+    },
+    {
+      "path": "results/monthly_counts.csv",
+      "bytes": 272,
+      "sha256": "7bc71f23194c513651d468a2fa94fe5eb2bbdf25a4d06816df9eedc4fba4e469"
+    },
+    {
+      "path": "results/monthly_test_metrics.csv",
+      "bytes": 1272,
+      "sha256": "a7974e43a459c70e9868de9c039a1e019f96cdd43e514bdbdbfa3dd61c661733"
+    },
+    {
+      "path": "results/notebook_execution_check.json",
+      "bytes": 161,
+      "sha256": "059cfa25f8f24a493d659b84814b077d2aadd83f4297f234cd366e11f10b5a3a"
+    },
+    {
+      "path": "results/numerical_stability_check.json",
+      "bytes": 236,
+      "sha256": "cd930d1cf4962d5a93dbbbdf256ff7bc6facce73bc3e0f05cc11446044cf758f"
+    },
+    {
+      "path": "results/report_numbers.json",
+      "bytes": 1231,
+      "sha256": "a3b039786e9cb220fb0c808b598ecde0e8bd22e8d8abfc7eb2c3b25db7d78aa4"
+    },
+    {
+      "path": "results/selection_lock.json",
+      "bytes": 2739,
+      "sha256": "9a2230c0dc93bc500a4afbbfcaaebe47bc9c7fe0fbbf007ed13acc9db34a3c01"
+    },
+    {
+      "path": "results/subgroup_metrics.csv",
+      "bytes": 1114,
+      "sha256": "3e054e2572ca112ab6f3bbe1fc11ae4e9465887fed7899ac0474b49538efa671"
+    },
+    {
+      "path": "results/summary.json",
+      "bytes": 4568,
+      "sha256": "b3d2520cdc86799d7836727551c9ee09609f4d165e2e81482de9c257a0a803a3"
+    },
+    {
+      "path": "results/test_metrics.csv",
+      "bytes": 859,
+      "sha256": "b78ae08de0526da4ecd35d43a6bb9ec93e36beb453efffaa5833328f7d92df60"
+    },
+    {
+      "path": "results/test_predictions.csv",
+      "bytes": 1967951,
+      "sha256": "1e783d113213f2538583512c24437c438fb455673421403a4c5608a71131e5db"
+    },
+    {
+      "path": "results/validation_candidates.csv",
+      "bytes": 2192,
+      "sha256": "aa0e08ceb55f488bfde48845a6737b94df3a5d267ec31dbbbb6ffadbcf7ddc54"
+    },
+    {
+      "path": "results/validation_folds.csv",
+      "bytes": 7953,
+      "sha256": "662eee2e8864623bc069d17218b764a80b5ffc1b8ee6fbd7d813d8318d81ed6d"
+    },
+    {
+      "path": "results/weather_ablation_bootstrap.csv",
+      "bytes": 250,
+      "sha256": "2358126be3d9458342778b05401c13f78ce5be71a2f0769748b7c8d107adca3f"
+    },
+    {
+      "path": "src/acquire.py",
+      "bytes": 4809,
+      "sha256": "26a2e9c147030aaca8ae3010eff6d177b968d9a51c9279aa858438f57bc8cbf5"
+    },
+    {
+      "path": "src/build_report.py",
+      "bytes": 5984,
+      "sha256": "e9724d424f007a9905adfdc888d1586fbcbe91ccd5b1f2186155df19879ab1a3"
+    },
+    {
+      "path": "src/experiment.py",
+      "bytes": 14673,
+      "sha256": "6797ea6e7e556bcb5f7f7d174e16fe74660499bf556d9b351649a5603801505a"
+    },
+    {
+      "path": "src/prepare.py",
+      "bytes": 11365,
+      "sha256": "72ba3a84c0255485249695202148ae31405dc3b144d7663a089a752d579f67d9"
+    },
+    {
+      "path": "src/prepare_slides.py",
+      "bytes": 1210,
+      "sha256": "860e5c265ac10bb0d690d8925212d135efe3e9efb2b501fd0e674fbfa7ee374d"
+    },
+    {
+      "path": "results/figures/error_diagnostics.pdf",
+      "bytes": 122031,
+      "sha256": "a96bc60b713486bf36e7a9698fdd63034eaa7de0d6d139f78b7bf2cba707171b"
+    },
+    {
+      "path": "results/figures/error_diagnostics.png",
+      "bytes": 182022,
+      "sha256": "a946036fb1078dc478cbe84ec2860d4bf81265b0cbb72a9e4d399b8a967f02a7"
+    },
+    {
+      "path": "results/figures/hour_profiles.pdf",
+      "bytes": 18077,
+      "sha256": "21d7b23066a0d6baf3fdda12d810bf240cbf5088d723473cfa434f9a2046ea50"
+    },
+    {
+      "path": "results/figures/hour_profiles.png",
+      "bytes": 80767,
+      "sha256": "c13826d07a8a749e636754808f6b640f402709997437817b0155630fe93f6ea8"
+    },
+    {
+      "path": "results/figures/monthly_bias.pdf",
+      "bytes": 52043,
+      "sha256": "08da6dfaceb7ee9c7329287f64fe9de963f306d9765fc6b05e1720174ca0aa10"
+    },
+    {
+      "path": "results/figures/monthly_bias.png",
+      "bytes": 34432,
+      "sha256": "df47560fe712589d9dd9f495e61b7b3e53e23e2a08cbd900a64fcac1508af5e8"
+    },
+    {
+      "path": "results/figures/monthly_counts.pdf",
+      "bytes": 42420,
+      "sha256": "e2b61d995e1d10f28f62d9342f025694106486b35d8e8cadae4391e954a611d8"
+    },
+    {
+      "path": "results/figures/monthly_counts.png",
+      "bytes": 44596,
+      "sha256": "04a157530d0dc8767a05442c8e5c212ec7f3e8e4a58d8fc0d1001759595092ac"
+    },
+    {
+      "path": "results/figures/subgroup_errors.pdf",
+      "bytes": 35640,
+      "sha256": "e684bcf4457c403c7925c71e90c4528cdfa9712651e1b81352716e6f1222595b"
+    },
+    {
+      "path": "results/figures/subgroup_errors.png",
+      "bytes": 53195,
+      "sha256": "253315844171340dad70242f594c4bf9d5093a60b65cac2c044d4a80c44892c2"
+    },
+    {
+      "path": "results/figures/test_comparison.pdf",
+      "bytes": 42825,
+      "sha256": "a954ad4975a14af74158f3f65895c013f349427d6f935ceb4f527fb53dd8d2d4"
+    },
+    {
+      "path": "results/figures/test_comparison.png",
+      "bytes": 53689,
+      "sha256": "de368faf072a667731a8fbd6598e3180711a45a5588a33f8829c46f15c4f8a9a"
+    },
+    {
+      "path": "results/figures/test_week.pdf",
+      "bytes": 71934,
+      "sha256": "120881ca5315f00f3faa4b62cee60eb2f7088d45a5dfd9a854ccddf746be18d1"
+    },
+    {
+      "path": "results/figures/test_week.png",
+      "bytes": 139653,
+      "sha256": "dae69a47542fe98c7eaff20a6c6d11f4d53061b903db58c5882fc7e8a2327004"
+    },
+    {
+      "path": "results/figures/weather_associations.pdf",
+      "bytes": 54355,
+      "sha256": "e5ecd4998131812386826ec268036836d52c84fd7c55321548a15711a28fde7f"
+    },
+    {
+      "path": "results/figures/weather_associations.png",
+      "bytes": 76495,
+      "sha256": "2debc2169d96d780577fe0b810c1ec7fd2922566bdbf6f973df07ed6d59432ec"
+    },
+    {
+      "path": "results/figures/weekday_heatmap.pdf",
+      "bytes": 23712,
+      "sha256": "b534bbf5e6d43f971a786eb651e8751777229974449bfd3363829e7727a02a74"
+    },
+    {
+      "path": "results/figures/weekday_heatmap.png",
+      "bytes": 44340,
+      "sha256": "525eb4e050fddd098bba3f31667bb0f37fcbbfba8bf70317921dc6e83d66ef4c"
+    },
+    {
+      "path": "presentation/previews/slide-1.png",
+      "bytes": 74756,
+      "sha256": "cbbe80c15cf083a9ce2a3c81dbea1f1eb78fcdcf028075d7f50811fe523145de"
+    },
+    {
+      "path": "presentation/previews/slide-2.png",
+      "bytes": 99179,
+      "sha256": "2b55ac96a4dbc15300129e98a47a4d2a4229323d9d215b1c5b1c7b18288e10d3"
+    },
+    {
+      "path": "presentation/previews/slide-3.png",
+      "bytes": 90826,
+      "sha256": "32a07b1b36ef0f584b4e83a5c1e21828165fc624427bcc14b1837087de4d5fa5"
+    },
+    {
+      "path": "presentation/previews/slide-4.png",
+      "bytes": 92935,
+      "sha256": "d3e93b5f5bb0d87fe3a051262353b60a29d927965480a40e7429de9436624be3"
+    },
+    {
+      "path": "presentation/previews/slide-5.png",
+      "bytes": 102175,
+      "sha256": "91dbc078eafbe8409b9082d7f850d526e6b311cc08515e43fc55c5784a64ca90"
+    },
+    {
+      "path": "presentation/previews/slide-6.png",
+      "bytes": 107161,
+      "sha256": "c5e23cbc6cd2af9049cb536d83ce38ca6b980ba313f885d35f6ba62318249224"
+    },
+    {
+      "path": "presentation/previews/slide-7.png",
+      "bytes": 110898,
+      "sha256": "30a0d604c1ad846ff39dd7ce21b99fea5f67190d12fff44685f67a99dc3193af"
+    },
+    {
+      "path": "data/processed/hourly_model_data.csv",
+      "bytes": 3195881,
+      "sha256": "c09b287b94afa37e0f707b30ec009e91c529b760e1f642ab734bc1ff26d7baaa"
+    },
+    {
+      "path": "data/processed/unresolved_dst_counts.csv",
+      "bytes": 68,
+      "sha256": "3303b79a02d6ddae6a11eb2ee7d6de94d62fd1c6642a5afec49fcccb57d6f176"
+    },
+    {
+      "path": "data/raw/202401-capitalbikeshare-tripdata.zip",
+      "bytes": 8837907,
+      "sha256": "48d11e148db00bd53c47fe419b166f37862faefac61a1ce9503b87017573ed34"
+    },
+    {
+      "path": "data/raw/202401-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 718,
+      "sha256": "56e7410aba8331e3e0c80622bcaf74b181c1e518b1fbed2d96b968a6e932ad5a"
+    },
+    {
+      "path": "data/raw/202402-capitalbikeshare-tripdata.zip",
+      "bytes": 12038545,
+      "sha256": "470885c1432d5150f1f1783df0ee1d8238484e5636681f1d67eda6d7b85762d9"
+    },
+    {
+      "path": "data/raw/202402-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "e5ee904a7a91cc5e1433d89fefb5fec8d126f015a8b0a368f736ed62a9d67b61"
+    },
+    {
+      "path": "data/raw/202403-capitalbikeshare-tripdata.zip",
+      "bytes": 16315953,
+      "sha256": "87524c79c508e5989b50d5bbeac198792d3ba4d5be4fdff49b19a47bbc24c674"
+    },
+    {
+      "path": "data/raw/202403-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "9a8b9c8381101a28a54dc58eb5b54aac0cbf3e363adcb60093c005c85f65728f"
+    },
+    {
+      "path": "data/raw/202404-capitalbikeshare-tripdata.zip",
+      "bytes": 18097545,
+      "sha256": "b1752b59d3cd174ce65ddb215edc50c727849fb6b8e11f077112cd982f3dfa74"
+    },
+    {
+      "path": "data/raw/202404-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 721,
+      "sha256": "ad7d0c029d3e415148798594cdb7351177538944bfbcea75daa67e012d901afa"
+    },
+    {
+      "path": "data/raw/202405-capitalbikeshare-tripdata.zip",
+      "bytes": 19399362,
+      "sha256": "ef1120e68c1744251451a12bf003e74eed58f14f53547122302e1821b6e1c142"
+    },
+    {
+      "path": "data/raw/202405-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 721,
+      "sha256": "7b170fbafd410e2d03fe3dba2a6f5d89bb9e9a20dc455fe7a48a399696d04a5f"
+    },
+    {
+      "path": "data/raw/202406-capitalbikeshare-tripdata.zip",
+      "bytes": 24847557,
+      "sha256": "d3e7b270fca3daec928f1d60120c72242420a1bb055165f667f78ef4e022828c"
+    },
+    {
+      "path": "data/raw/202406-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "c0f1f2e7e7fa30ff050d4b3ac51e1f7979c219548a16df72165e3c202971bce3"
+    },
+    {
+      "path": "data/raw/202407-capitalbikeshare-tripdata.zip",
+      "bytes": 24116339,
+      "sha256": "60f025f88379487953083ec67dfe23eb51cb16047f7f399c47d44b3e170b9ba3"
+    },
+    {
+      "path": "data/raw/202407-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "7ef6dd61e2e565ee3aa3c290f55217f18128eed82195a50610c9f03b08d23e72"
+    },
+    {
+      "path": "data/raw/202408-capitalbikeshare-tripdata.zip",
+      "bytes": 24772714,
+      "sha256": "6f16ceab010a3b176a8d7965b7db9f50f5b140be3fe3ebffd9cae991dd4d2213"
+    },
+    {
+      "path": "data/raw/202408-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "56328868c717d3716ceecddfde22fdc56d017b9bee32c6d9096f5ec42fd60b01"
+    },
+    {
+      "path": "data/raw/202409-capitalbikeshare-tripdata.zip",
+      "bytes": 26194186,
+      "sha256": "2007093d9c1c00ba55fe62a6be226b588af6aed78f8ee26ee5635c97921e2843"
+    },
+    {
+      "path": "data/raw/202409-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "1cb0d9263c1ece086be6681f49f0d3e36b3986ab6bde62a6acb035928de5ac7d"
+    },
+    {
+      "path": "data/raw/202410-capitalbikeshare-tripdata.zip",
+      "bytes": 27277170,
+      "sha256": "3d4b61949bc001d8c25bc2ceeaa8f61ec4dba7c2d1b354c1eadf6b42c29f36e6"
+    },
+    {
+      "path": "data/raw/202410-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "cbf0ca898ec3187a6aa82500c6ed0514eff14fd5d722bf32fbbc4c877334bba2"
+    },
+    {
+      "path": "data/raw/202411-capitalbikeshare-tripdata.zip",
+      "bytes": 21919417,
+      "sha256": "ab2b18cd8be5040aa9f869ec8a5404e72dee80becf22d5568b69624850eee82a"
+    },
+    {
+      "path": "data/raw/202411-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "e5a264542d1264d2ead40f4d9ddba30c6034cf706b48ef9317dfbcdf249dbbeb"
+    },
+    {
+      "path": "data/raw/202412-capitalbikeshare-tripdata.zip",
+      "bytes": 14865654,
+      "sha256": "41d4a31e17cfc3073b836d27c29170570c3d062bc0d1d7d2bf2084e92c33d807"
+    },
+    {
+      "path": "data/raw/202412-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "d4f25bb70f981ce5d195d41286de36d786ede125b7d63c1d7791d9467608a2d5"
+    },
+    {
+      "path": "data/raw/202501-capitalbikeshare-tripdata.zip",
+      "bytes": 11453201,
+      "sha256": "d1bb7539d0a2b016bfdce2bc3db60b801869948ecf5139a32f897422ee6d312e"
+    },
+    {
+      "path": "data/raw/202501-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "ce383653661b3ea17f2bd267dc03c8a9d344d3c4dc313b19d423701c2b7452ef"
+    },
+    {
+      "path": "data/raw/202502-capitalbikeshare-tripdata.zip",
+      "bytes": 13403235,
+      "sha256": "332df8d389179ecf95a192813556567f63ee65837f899e5ae1c890797b99f02e"
+    },
+    {
+      "path": "data/raw/202502-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "56d46fe837b6734a58e5f622980506bf9081d1bad44471ba30a3a3d4c5a016b2"
+    },
+    {
+      "path": "data/raw/202503-capitalbikeshare-tripdata.zip",
+      "bytes": 24906531,
+      "sha256": "b8dd1f8317a60481ebaec5ae406e2dfc5393d1689e7a8bce4aa8ece4f6a854b2"
+    },
+    {
+      "path": "data/raw/202503-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "b2b0415f77502498b71d092ce52afe9b113b838c40d4d84c11fa34028ed2f9b9"
+    },
+    {
+      "path": "data/raw/202504-capitalbikeshare-tripdata.zip",
+      "bytes": 25712657,
+      "sha256": "99b5269424607d32adb4f0545a613748df5493eda8104cc1d59031e128a70328"
+    },
+    {
+      "path": "data/raw/202504-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "e8c80ccb0d532e2881921cf1206226194a5515fa6f9f6a48a585ee939e5750e3"
+    },
+    {
+      "path": "data/raw/202505-capitalbikeshare-tripdata.zip",
+      "bytes": 27079061,
+      "sha256": "53188c67d23bae6a2872571a9cc8611519ed2f858100375f2aeaf942cb0c524a"
+    },
+    {
+      "path": "data/raw/202505-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "c7bcfc98d91778015bb12389fe0be082e5d3f11fdd7b63b1c85e47c1153458c1"
+    },
+    {
+      "path": "data/raw/202506-capitalbikeshare-tripdata.zip",
+      "bytes": 27463070,
+      "sha256": "10090df8b77eab6425c6979b1d501d7ce25a79da11b4ff37704200883746e097"
+    },
+    {
+      "path": "data/raw/202506-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "cc8723e2f043c83702ff634b65da829485981615dab5d5e479ad80b40e577fc8"
+    },
+    {
+      "path": "data/raw/202507-capitalbikeshare-tripdata.zip",
+      "bytes": 27435004,
+      "sha256": "348704ce73f24de1753ef2ce66ef7fc45ea3df4dc4c96b201b72b58f256482f3"
+    },
+    {
+      "path": "data/raw/202507-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "ec1db55ccf8f8744dcd6d19a21bbf8bbcc0580cc384f006dacc71cba226c10f5"
+    },
+    {
+      "path": "data/raw/202508-capitalbikeshare-tripdata.zip",
+      "bytes": 24470299,
+      "sha256": "529e1e4919ec28b950d9577e79c0cbad170f07f0ceee1c320a8802e130554795"
+    },
+    {
+      "path": "data/raw/202508-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "a70e252a03f47f29672b7c90a2c7aebcc40b00d2acc5e23a14d84497e3bb6c26"
+    },
+    {
+      "path": "data/raw/202509-capitalbikeshare-tripdata.zip",
+      "bytes": 25272829,
+      "sha256": "d026498b2f694b050193672f33ce0e7f113684477e51d9e5247715aa3a1aaab8"
+    },
+    {
+      "path": "data/raw/202509-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "9f20e77c5eae16b9b5d24c33b86e43574cf1ada359ceebc0c3b1ce52f7b9b6cb"
+    },
+    {
+      "path": "data/raw/202510-capitalbikeshare-tripdata.zip",
+      "bytes": 24133261,
+      "sha256": "fed6aa625af5d9598c2587f542f6ab81b35b0721606426792ea037b9f807b537"
+    },
+    {
+      "path": "data/raw/202510-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 722,
+      "sha256": "e92752cf0de0216f066c041bcbb4deb29fa5b5354f9d21bc307a23ba41c2b11f"
+    },
+    {
+      "path": "data/raw/202511-capitalbikeshare-tripdata.zip",
+      "bytes": 16490186,
+      "sha256": "7ead9084e76e65898289bb47e09e5321e14b5915e1fdd347d56b1d47af8da376"
+    },
+    {
+      "path": "data/raw/202511-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "aa65c245b871417d0d98b9bb266b523fbb82f6d7fe3684b2aa6f1c959907ee80"
+    },
+    {
+      "path": "data/raw/202512-capitalbikeshare-tripdata.zip",
+      "bytes": 11656999,
+      "sha256": "2651bb9be1b2cfa4aba8a4db1b66f9a61554496c2cfdec493e98f8dd1d3ebffc"
+    },
+    {
+      "path": "data/raw/202512-capitalbikeshare-tripdata.zip.download.json",
+      "bytes": 719,
+      "sha256": "b1b425d54a160e6456d65b902e281dd77f219c46e1f97f519dc8545c3e77596f"
+    },
+    {
+      "path": "data/raw/bucket_listing.xml",
+      "bytes": 29550,
+      "sha256": "1737f7a9874951150efbecf89194d1bb6efe234ca686d540dc1b7816bf9936a1"
+    },
+    {
+      "path": "data/raw/trip_manifest.json",
+      "bytes": 19475,
+      "sha256": "687795953a392e48469e90d0e5c7d6d14bef21fc06057e0c8e19c3224f855abc"
+    },
+    {
+      "path": "data/raw/weather_era5.download.json",
+      "bytes": 990,
+      "sha256": "8089a3a49cdec2c66a02f08c12a52f927c0b1791907f71b39df88062342ccff2"
+    },
+    {
+      "path": "data/raw/weather_era5.json",
+      "bytes": 548380,
+      "sha256": "4e809dd2e0058feb15dd5723e2604cad8eef741e64ad43aad3cac120b42634f0"
+    }
+  ]
+}

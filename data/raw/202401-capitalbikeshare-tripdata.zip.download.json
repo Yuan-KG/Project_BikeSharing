@@ -1,0 +1,21 @@
+{
+  "filename": "202401-capitalbikeshare-tripdata.zip",
+  "source": "https://s3.amazonaws.com/capitalbikeshare-data/202401-capitalbikeshare-tripdata.zip",
+  "started_utc": "2026-11-13T08:50:07.055517+00:00",
+  "completed_utc": "2026-11-13T08:50:12.685869+00:00",
+  "bytes": 8837907,
+  "sha256": "48d11e148db00bd53c47fe419b166f37862faefac61a1ce9503b87017573ed34",
+  "s3_last_modified": "2024-02-05T15:23:55.000Z",
+  "etag": "\"874ab5315be556e0042eb7ac9d5773cb\"",
+  "zip_crc_verified": true,
+  "members": [
+    {
+      "name": "202401-capitalbikeshare-tripdata.csv",
+      "bytes": 45822829
+    },
+    {
+      "name": "__MACOSX/._202401-capitalbikeshare-tripdata.csv",
+      "bytes": 562
+    }
+  ]
+}

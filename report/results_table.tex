@@ -1,0 +1,13 @@
+\begin{tabular}{llrrrrr}
+\toprule
+Model & Inputs & Val. RMSE & Test MAE & Test RMSE & $R^2$ & Bias \\
+\midrule
+Weekday--hour mean & Time & 358.48 & 240.98 & 347.01 & 0.702 & -64.40 \\
+Ridge & Time & 329.86 & 216.32 & 307.07 & 0.767 & -50.78 \\
+Ridge & Time + weather & 342.04 & 201.83 & 284.63 & 0.800 & -63.42 \\
+Random forest & Time & 306.26 & 188.54 & 290.81 & 0.791 & -63.17 \\
+Random forest & Time + weather & 243.84 & 168.79 & 250.80 & 0.844 & -66.92 \\
+Gradient boosting & Time & 322.55 & 190.73 & 288.48 & 0.794 & -62.45 \\
+Gradient boosting & Time + weather & 220.09 & 166.43 & 241.86 & 0.855 & -67.50 \\
+\bottomrule
+\end{tabular}

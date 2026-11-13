@@ -1,0 +1,31 @@
+{
+  "report_pages": 10,
+  "body_font": "Times New Roman",
+  "body_font_size_pt": 10,
+  "embedded_times_verified": true,
+  "character_font_sizes": {
+    "14.3": 106,
+    "1.0": 1303,
+    "10.0": 31910,
+    "7.0": 21,
+    "12.0": 186,
+    "6.0": 1,
+    "9.0": 2868,
+    "10.8": 169
+  },
+  "report_visual_review": "All ten final pages rendered and inspected. No clipping, overlap, missing formula, missing figure or corrupt glyph observed. Ordinary underfull spacing warnings reviewed.",
+  "notebook_fresh_kernel": true,
+  "executed_code_cells": 10,
+  "notebook_errors": 0,
+  "notebook_stderr_warnings": 0,
+  "all_24_raw_zip_hashes_match": true,
+  "weather_hash_matches": true,
+  "presentation_slides": 7,
+  "embedded_native_chart_workbooks": 4,
+  "presenter_note_parts": 7,
+  "presentation_visual_review": "All seven final PPTX re-import previews independently inspected; corrected overflow, axis range and bias definition verified.",
+  "presentation_native_powerpoint_opened": false,
+  "remote_repository": "https://github.com/Yuan-KG/Project_BikeSharing",
+  "remote_refs_checked": "empty before upload",
+  "remote_publication_performed": false
+}

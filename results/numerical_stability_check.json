@@ -1,0 +1,7 @@
+{
+  "change": "Ridge SVD solver; same objective, features, grid, split and selection rule",
+  "initial_and_final_settings_identical": true,
+  "primary_identical": true,
+  "final_notebook_errors": 0,
+  "final_notebook_stderr": []
+}

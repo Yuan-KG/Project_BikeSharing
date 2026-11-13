@@ -1,0 +1,116 @@
+{
+  "seed": 42,
+  "folds": [
+    [
+      "2024-07-01",
+      "2024-09-01"
+    ],
+    [
+      "2024-09-01",
+      "2024-11-01"
+    ],
+    [
+      "2024-11-01",
+      "2025-01-01"
+    ]
+  ],
+  "selection_metric": "pooled 2024 validation RMSE",
+  "selected": [
+    {
+      "family": "Ridge",
+      "features": "time",
+      "params": {
+        "alpha": 1
+      },
+      "n_validation": 4415,
+      "MAE": 238.05404546004536,
+      "RMSE": 329.8603365430732,
+      "R2": 0.725056897226882,
+      "bias": -122.8391222748965
+    },
+    {
+      "family": "Ridge",
+      "features": "time_weather",
+      "params": {
+        "alpha": 10
+      },
+      "n_validation": 4415,
+      "MAE": 250.62671632054742,
+      "RMSE": 342.0377035814056,
+      "R2": 0.7043821882710484,
+      "bias": -176.92100341263588
+    },
+    {
+      "family": "RandomForest",
+      "features": "time",
+      "params": {
+        "n_estimators": 160,
+        "min_samples_leaf": 2
+      },
+      "n_validation": 4415,
+      "MAE": 194.192832621025,
+      "RMSE": 306.2616577620054,
+      "R2": 0.7629893333022792,
+      "bias": -68.95528312951049
+    },
+    {
+      "family": "RandomForest",
+      "features": "time_weather",
+      "params": {
+        "n_estimators": 160,
+        "min_samples_leaf": 2
+      },
+      "n_validation": 4415,
+      "MAE": 163.36363225044508,
+      "RMSE": 243.84455460210856,
+      "R2": 0.8497519800976471,
+      "bias": -81.50621715772824
+    },
+    {
+      "family": "HistGradientBoosting",
+      "features": "time",
+      "params": {
+        "max_iter": 250,
+        "learning_rate": 0.06,
+        "max_leaf_nodes": 31,
+        "l2_regularization": 1
+      },
+      "n_validation": 4415,
+      "MAE": 202.56253409939802,
+      "RMSE": 322.55494611224873,
+      "R2": 0.7371003271818586,
+      "bias": -48.37576394810199
+    },
+    {
+      "family": "HistGradientBoosting",
+      "features": "time_weather",
+      "params": {
+        "max_iter": 250,
+        "learning_rate": 0.06,
+        "max_leaf_nodes": 15,
+        "l2_regularization": 1
+      },
+      "n_validation": 4415,
+      "MAE": 148.26614800926285,
+      "RMSE": 220.08968834377313,
+      "R2": 0.8775998289156939,
+      "bias": -74.46342002254555
+    }
+  ],
+  "primary": {
+    "family": "HistGradientBoosting",
+    "features": "time_weather",
+    "params": {
+      "max_iter": 250,
+      "learning_rate": 0.06,
+      "max_leaf_nodes": 15,
+      "l2_regularization": 1
+    },
+    "n_validation": 4415,
+    "MAE": 148.26614800926285,
+    "RMSE": 220.08968834377313,
+    "R2": 0.8775998289156939,
+    "bias": -74.46342002254555
+  },
+  "locked_before_test": true
+}

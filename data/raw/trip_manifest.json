@@ -1,0 +1,509 @@
+{
+  "listing_retrieved_utc": "2026-11-13T09:19:47.968097+00:00",
+  "files": [
+    {
+      "filename": "202401-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202401-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:07.055517+00:00",
+      "completed_utc": "2026-11-13T08:50:12.685869+00:00",
+      "bytes": 8837907,
+      "sha256": "48d11e148db00bd53c47fe419b166f37862faefac61a1ce9503b87017573ed34",
+      "s3_last_modified": "2024-02-05T15:23:55.000Z",
+      "etag": "\"874ab5315be556e0042eb7ac9d5773cb\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202401-capitalbikeshare-tripdata.csv",
+          "bytes": 45822829
+        },
+        {
+          "name": "__MACOSX/._202401-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202402-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202402-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:07.056238+00:00",
+      "completed_utc": "2026-11-13T08:50:25.130716+00:00",
+      "bytes": 12038545,
+      "sha256": "470885c1432d5150f1f1783df0ee1d8238484e5636681f1d67eda6d7b85762d9",
+      "s3_last_modified": "2024-03-04T14:46:52.000Z",
+      "etag": "\"864faadaf89f79f24e81545eaf4d5468\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202402-capitalbikeshare-tripdata.csv",
+          "bytes": 61398495
+        },
+        {
+          "name": "__MACOSX/._202402-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202403-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202403-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:07.070853+00:00",
+      "completed_utc": "2026-11-13T08:50:11.366734+00:00",
+      "bytes": 16315953,
+      "sha256": "87524c79c508e5989b50d5bbeac198792d3ba4d5be4fdff49b19a47bbc24c674",
+      "s3_last_modified": "2024-04-01T18:54:23.000Z",
+      "etag": "\"93d106a99c2edaec36ad35891b2f0fa3\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202403-capitalbikeshare-tripdata.csv",
+          "bytes": 84462965
+        },
+        {
+          "name": "__MACOSX/._202403-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202404-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202404-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:11.396535+00:00",
+      "completed_utc": "2026-11-13T08:52:43.945705+00:00",
+      "bytes": 18097545,
+      "sha256": "b1752b59d3cd174ce65ddb215edc50c727849fb6b8e11f077112cd982f3dfa74",
+      "s3_last_modified": "2024-05-06T20:37:39.000Z",
+      "etag": "\"3c14e355a27829fa672357fbf3e3698a-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202004-capitalbikeshare-tripdata.csv",
+          "bytes": 94922221
+        },
+        {
+          "name": "__MACOSX/._202004-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202405-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202405-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:12.696002+00:00",
+      "completed_utc": "2026-11-13T08:50:19.250137+00:00",
+      "bytes": 19399362,
+      "sha256": "ef1120e68c1744251451a12bf003e74eed58f14f53547122302e1821b6e1c142",
+      "s3_last_modified": "2024-06-26T15:23:06.000Z",
+      "etag": "\"ae46c122849cbe872c4a6320eee302d8-3\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202405-capitalbikeshare-tripdata.csv",
+          "bytes": 99369655
+        },
+        {
+          "name": "__MACOSX/._202405-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202406-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202406-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:19.268444+00:00",
+      "completed_utc": "2026-11-13T08:50:44.255018+00:00",
+      "bytes": 24847557,
+      "sha256": "d3e7b270fca3daec928f1d60120c72242420a1bb055165f667f78ef4e022828c",
+      "s3_last_modified": "2024-07-03T20:17:05.000Z",
+      "etag": "\"7d10f6674f08f76b723e5b59ba9f37a5-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202406-capitalbikeshare-tripdata.csv",
+          "bytes": 116658769
+        },
+        {
+          "name": "__MACOSX/._202406-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202407-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202407-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:25.142954+00:00",
+      "completed_utc": "2026-11-13T08:51:00.157708+00:00",
+      "bytes": 24116339,
+      "sha256": "60f025f88379487953083ec67dfe23eb51cb16047f7f399c47d44b3e170b9ba3",
+      "s3_last_modified": "2024-08-07T23:19:13.000Z",
+      "etag": "\"02b3debcbf075f00df267c1b20502270-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202407-capitalbikeshare-tripdata.csv",
+          "bytes": 116578223
+        },
+        {
+          "name": "__MACOSX/._202407-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202408-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202408-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:50:44.276035+00:00",
+      "completed_utc": "2026-11-13T08:51:26.071542+00:00",
+      "bytes": 24772714,
+      "sha256": "6f16ceab010a3b176a8d7965b7db9f50f5b140be3fe3ebffd9cae991dd4d2213",
+      "s3_last_modified": "2024-09-05T00:44:30.000Z",
+      "etag": "\"5f801d5b0d6b312a6bf7963a50d757f4-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202408-capitalbikeshare-tripdata.csv",
+          "bytes": 120669426
+        },
+        {
+          "name": "__MACOSX/._202408-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202409-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202409-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:51:00.180491+00:00",
+      "completed_utc": "2026-11-13T08:52:01.072700+00:00",
+      "bytes": 26194186,
+      "sha256": "2007093d9c1c00ba55fe62a6be226b588af6aed78f8ee26ee5635c97921e2843",
+      "s3_last_modified": "2024-11-13T04:37:28.000Z",
+      "etag": "\"a8c135ac19cbd83fffb4859723950be4-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202409-capitalbikeshare-tripdata.csv",
+          "bytes": 129378478
+        },
+        {
+          "name": "__MACOSX/._202409-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202410-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202410-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:56:20.225937+00:00",
+      "completed_utc": "2026-11-13T08:57:07.199306+00:00",
+      "bytes": 27277170,
+      "sha256": "3d4b61949bc001d8c25bc2ceeaa8f61ec4dba7c2d1b354c1eadf6b42c29f36e6",
+      "s3_last_modified": "2024-11-05T13:24:52.000Z",
+      "etag": "\"d8cda554bbf92031c8c498245eef0fc6-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202410-capitalbikeshare-tripdata.csv",
+          "bytes": 139731850
+        },
+        {
+          "name": "__MACOSX/._202410-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202411-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202411-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:01.097589+00:00",
+      "completed_utc": "2026-11-13T08:52:09.305524+00:00",
+      "bytes": 21919417,
+      "sha256": "ab2b18cd8be5040aa9f869ec8a5404e72dee80becf22d5568b69624850eee82a",
+      "s3_last_modified": "2024-12-04T13:38:51.000Z",
+      "etag": "\"599047459350f68f36c76e7fb04ba4c4-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202411-capitalbikeshare-tripdata.csv",
+          "bytes": 105838006
+        },
+        {
+          "name": "__MACOSX/._202411-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202412-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202412-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:09.324260+00:00",
+      "completed_utc": "2026-11-13T08:52:15.362604+00:00",
+      "bytes": 14865654,
+      "sha256": "41d4a31e17cfc3073b836d27c29170570c3d062bc0d1d7d2bf2084e92c33d807",
+      "s3_last_modified": "2025-01-06T20:36:18.000Z",
+      "etag": "\"bd53f991560b3045f9c7fe076c25ab98\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202412-capitalbikeshare-tripdata.csv",
+          "bytes": 69775021
+        },
+        {
+          "name": "__MACOSX/._202412-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202501-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202501-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:15.377210+00:00",
+      "completed_utc": "2026-11-13T08:52:23.014417+00:00",
+      "bytes": 11453201,
+      "sha256": "d1bb7539d0a2b016bfdce2bc3db60b801869948ecf5139a32f897422ee6d312e",
+      "s3_last_modified": "2025-02-05T16:26:38.000Z",
+      "etag": "\"360945a20d1f8d88eadbbc8f4ddc10a7\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202501-capitalbikeshare-tripdata.csv",
+          "bytes": 52774017
+        },
+        {
+          "name": "__MACOSX/._202501-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202502-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202502-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:23.025741+00:00",
+      "completed_utc": "2026-11-13T08:52:34.073485+00:00",
+      "bytes": 13403235,
+      "sha256": "332df8d389179ecf95a192813556567f63ee65837f899e5ae1c890797b99f02e",
+      "s3_last_modified": "2025-03-04T13:48:39.000Z",
+      "etag": "\"dc7c8fbbda2b7963937a90819d3f712f\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202502-capitalbikeshare-tripdata.csv",
+          "bytes": 68888533
+        },
+        {
+          "name": "__MACOSX/._202502-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202503-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202503-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:34.086954+00:00",
+      "completed_utc": "2026-11-13T08:53:04.575827+00:00",
+      "bytes": 24906531,
+      "sha256": "b8dd1f8317a60481ebaec5ae406e2dfc5393d1689e7a8bce4aa8ece4f6a854b2",
+      "s3_last_modified": "2025-04-04T21:15:22.000Z",
+      "etag": "\"995217ccf0f56c6add5d6f88ff8eb3f1-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202503-capitalbikeshare-tripdata.csv",
+          "bytes": 118596914
+        },
+        {
+          "name": "__MACOSX/._202503-capitalbikeshare-tripdata.csv",
+          "bytes": 462
+        }
+      ]
+    },
+    {
+      "filename": "202504-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202504-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:43.963103+00:00",
+      "completed_utc": "2026-11-13T08:52:54.081971+00:00",
+      "bytes": 25712657,
+      "sha256": "99b5269424607d32adb4f0545a613748df5493eda8104cc1d59031e128a70328",
+      "s3_last_modified": "2025-05-07T12:27:58.000Z",
+      "etag": "\"60a01f48c6e9070e3aac73ec4bbf4bd0-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202504-capitalbikeshare-tripdata.csv",
+          "bytes": 125312397
+        },
+        {
+          "name": "__MACOSX/._202504-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202505-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202505-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:52:54.105822+00:00",
+      "completed_utc": "2026-11-13T08:53:09.322754+00:00",
+      "bytes": 27079061,
+      "sha256": "53188c67d23bae6a2872571a9cc8611519ed2f858100375f2aeaf942cb0c524a",
+      "s3_last_modified": "2025-06-04T12:03:50.000Z",
+      "etag": "\"a54591252f2aebe5f40ee30ba914a010-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202505-capitalbikeshare-tripdata.csv",
+          "bytes": 128976890
+        },
+        {
+          "name": "__MACOSX/._202505-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202506-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202506-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:53:04.598530+00:00",
+      "completed_utc": "2026-11-13T08:53:16.372364+00:00",
+      "bytes": 27463070,
+      "sha256": "10090df8b77eab6425c6979b1d501d7ce25a79da11b4ff37704200883746e097",
+      "s3_last_modified": "2025-07-06T21:59:58.000Z",
+      "etag": "\"6f8d65e56ace3c5881773dacdf7b478a-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202506-capitalbikeshare-tripdata.csv",
+          "bytes": 129139902
+        },
+        {
+          "name": "__MACOSX/._202506-capitalbikeshare-tripdata.csv",
+          "bytes": 462
+        }
+      ]
+    },
+    {
+      "filename": "202507-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202507-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:53:09.347500+00:00",
+      "completed_utc": "2026-11-13T08:53:21.642580+00:00",
+      "bytes": 27435004,
+      "sha256": "348704ce73f24de1753ef2ce66ef7fc45ea3df4dc4c96b201b72b58f256482f3",
+      "s3_last_modified": "2025-08-05T17:53:08.000Z",
+      "etag": "\"fa7b8c343002f2abd323f9a18308395f-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202507-capitalbikeshare-tripdata.csv",
+          "bytes": 131971611
+        },
+        {
+          "name": "__MACOSX/._202507-capitalbikeshare-tripdata.csv",
+          "bytes": 562
+        }
+      ]
+    },
+    {
+      "filename": "202508-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202508-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:53:16.412656+00:00",
+      "completed_utc": "2026-11-13T08:54:01.985684+00:00",
+      "bytes": 24470299,
+      "sha256": "529e1e4919ec28b950d9577e79c0cbad170f07f0ceee1c320a8802e130554795",
+      "s3_last_modified": "2025-09-04T17:52:08.000Z",
+      "etag": "\"765de226ddf7c2b8def71d4bb7e003b2-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202508-capitalbikeshare-tripdata.csv",
+          "bytes": 127605424
+        },
+        {
+          "name": "__MACOSX/._202508-capitalbikeshare-tripdata.csv",
+          "bytes": 462
+        }
+      ]
+    },
+    {
+      "filename": "202509-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202509-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:53:21.163302+00:00",
+      "completed_utc": "2026-11-13T08:54:02.411787+00:00",
+      "bytes": 25272829,
+      "sha256": "d026498b2f694b050193672f33ce0e7f113684477e51d9e5247715aa3a1aaab8",
+      "s3_last_modified": "2025-10-06T12:11:44.000Z",
+      "etag": "\"cfd563890f98b4741f21cfd7f28ad436-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202509-capitalbikeshare-tripdata.csv",
+          "bytes": 124939230
+        },
+        {
+          "name": "__MACOSX/._202509-capitalbikeshare-tripdata.csv",
+          "bytes": 598
+        }
+      ]
+    },
+    {
+      "filename": "202510-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202510-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:56:20.378631+00:00",
+      "completed_utc": "2026-11-13T08:57:25.108568+00:00",
+      "bytes": 24133261,
+      "sha256": "fed6aa625af5d9598c2587f542f6ab81b35b0721606426792ea037b9f807b537",
+      "s3_last_modified": "2025-11-04T17:58:20.000Z",
+      "etag": "\"313df62c33f538a83942f636be888244-2\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202510-capitalbikeshare-tripdata.csv",
+          "bytes": 125174712
+        },
+        {
+          "name": "__MACOSX/._202510-capitalbikeshare-tripdata.csv",
+          "bytes": 598
+        }
+      ]
+    },
+    {
+      "filename": "202511-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202511-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:56:20.404262+00:00",
+      "completed_utc": "2026-11-13T08:57:12.108169+00:00",
+      "bytes": 16490186,
+      "sha256": "7ead9084e76e65898289bb47e09e5321e14b5915e1fdd347d56b1d47af8da376",
+      "s3_last_modified": "2025-12-08T19:50:50.000Z",
+      "etag": "\"f83adae32544371d65e7c38742b95d78\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202511-capitalbikeshare-tripdata.csv",
+          "bytes": 88963646
+        },
+        {
+          "name": "__MACOSX/._202511-capitalbikeshare-tripdata.csv",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "filename": "202512-capitalbikeshare-tripdata.zip",
+      "source": "https://s3.amazonaws.com/capitalbikeshare-data/202512-capitalbikeshare-tripdata.zip",
+      "started_utc": "2026-11-13T08:57:07.224767+00:00",
+      "completed_utc": "2026-11-13T08:57:11.093462+00:00",
+      "bytes": 11656999,
+      "sha256": "2651bb9be1b2cfa4aba8a4db1b66f9a61554496c2cfdec493e98f8dd1d3ebffc",
+      "s3_last_modified": "2026-01-05T16:30:23.000Z",
+      "etag": "\"f534ae037ba228f47ce74dd66c10724c\"",
+      "zip_crc_verified": true,
+      "members": [
+        {
+          "name": "202512-capitalbikeshare-tripdata.csv",
+          "bytes": 58076211
+        },
+        {
+          "name": "__MACOSX/._202512-capitalbikeshare-tripdata.csv",
+          "bytes": 598
+        }
+      ]
+    }
+  ]
+}
